@@ -1,0 +1,2 @@
+this file is invalid: it should print the ERROR
+
